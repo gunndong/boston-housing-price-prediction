@@ -4,7 +4,7 @@
 
 <aside>
 
-Key Summary
+### Key Summary
 
 - 주택 가격에 영향을 미치는 다양한 환경적/사회적 변수를 분석하고, 가격을 예측하는 머신러닝 베이스라인 모델 구축
 - 데이터 탐색(EDA), 피어슨 상관관계 기반 주요 피처(Feature) 추출, 다중 선형 회귀(Multiple Linear Regression) 모델 설계 및 평가
