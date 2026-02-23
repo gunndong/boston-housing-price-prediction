@@ -19,5 +19,7 @@ Key Summary
 
 결과
 Mean Squared Error (MSE): 7.630015927200283
+
 Root Mean Squared Error (RMSE): 2.762248346401946
+
 R-squared (R²): 0.8065329175674142
